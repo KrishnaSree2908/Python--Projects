@@ -1,7 +1,7 @@
 # Python Projects
 ---
 
-## 🏧 ATM 
+##  ATM 
 
 A simple ATM simulation built using Python.
 
@@ -15,7 +15,7 @@ A simple ATM simulation built using Python.
 cd ATM,
 python atm.py
 
-## 🏧 BILLING SYSTEM
+##  BILLING SYSTEM
 
 A simple console-based billing application developed using Python.
 
@@ -29,7 +29,7 @@ A simple console-based billing application developed using Python.
 cd BILLING SYSTEM,
 python "billing system".py
 
-## 🏧 Event Registration System
+##    EVENT REGISTRATION SYSTEM
 
 A simple console-based application developed using Python to manage event registrations.  
 This system allows users to register for an event, view participant details, and track the total number of registrations.
@@ -46,5 +46,26 @@ This system allows users to register for an event, view participant details, and
 - Lists, Loops, Conditions
 
 ### 🔹 How to Run
-cd Event Registration System,
+cd EVENT REGISTRATION SYSTEM,
 python registration.py
+
+##  EMPLOYEE PAYROLL SYSTEM
+
+A simple console-based application developed using Python to calculate employee salary details.  
+This system takes employee input and computes allowances, deductions, and final net salary.
+
+### 🔹 Features
+- Enter employee name and basic salary
+- Automatic calculation of HRA, DA, and Tax
+- Displays gross salary and net salary
+- Input validation for salary values
+- Clean and structured output
+
+### 🔹 Technologies Used
+- Python
+- Arithmetic Operations, Conditions
+
+### 🔹 How to Run
+```bash
+cd PAYROLL,
+python pay.py
