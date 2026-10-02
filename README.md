@@ -12,7 +12,7 @@ A simple ATM simulation built using Python.
 - Withdraw Money (with validation)
 
 ### How to Run
-```bash
+cd ATM
 python atm.py
 
 ## 🏧 BILLING SYSTEM
@@ -26,6 +26,6 @@ A simple console-based billing application developed using Python.
 - Input validation using try-except
 
 ### 🔹 How to Run
-```bash
-cd Billing
-python billing.py
+
+cd BILLING SYSTEM
+python "billing.py"
