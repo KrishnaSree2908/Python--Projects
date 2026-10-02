@@ -26,6 +26,5 @@ A simple console-based billing application developed using Python.
 - Input validation using try-except
 
 ### 🔹 How to Run
-
-cd BILLING SYSTEM
+cd "BILLING SYSTEM"
 python "billing.py"
