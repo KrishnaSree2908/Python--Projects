@@ -1,7 +1,7 @@
 # Python Projects
 ---
 
-## 🏧 ATM Project
+## 🏧 ATM 
 
 A simple ATM simulation built using Python.
 
