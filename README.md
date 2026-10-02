@@ -66,6 +66,5 @@ This system takes employee input and computes allowances, deductions, and final 
 - Arithmetic Operations, Conditions
 
 ### 🔹 How to Run
-```bash
 cd PAYROLL,
 python pay.py
